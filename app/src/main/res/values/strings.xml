@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProductsList</string>
+    <string name="main_top_bar_title">Список товаров</string>
+
+    <!--Main Screen-->
+    <string name="main_list_item_description">main_list_cover</string>
+
+    <!--Detail Screen-->
+    <string name="detail_product_close_btn">product_close_btn</string>
+    <string name="detail_cover">detail_cover</string>
+    <string name="detail_shopping_btn">detail_shopping_btn</string>
+
+    <!--Basket Screen-->
+    <string name="basket_nav_close_btn">basket_close_btn</string>
+    <string name="basket_title">Корзина</string>
+</resources>
